@@ -57,7 +57,33 @@ header{
     font-size: 48px;
 }
 .pera{
-    font-size: 18px;
+    font-size: 15px;
     font-weight: normal;
     color: #0D1321;
+}
+.center{
+    align-items: center;
+    text-align: center;
+}
+main{
+     max-width: 1140px;
+    margin: 0 auto
+}
+.coding{
+    font-size: 30px ;
+    font-weight: bold;
+}
+.text-coding{
+    
+    text-align: center;
+    margin: 130px 10px;
+    
+}
+.why-codings{
+    display: flex;
+    background-color: white;
+    justify-content: space-between;
+    padding: 50px 10px;
+    gap: 20px;
+    border-radius: 15px;
 }
